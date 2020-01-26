@@ -1,1 +1,1 @@
-# Gary-trade-data
+# Gary-trade analysis using MS Excel
